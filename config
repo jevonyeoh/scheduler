@@ -1,0 +1,4 @@
+num_existing_hypervisors = 1
+num_instances_of_flavor = {'m1.micro' : 1, 'm1.small' : 1}
+num_repeat_instance_creation = 1
+repeat_time_interval = 15
