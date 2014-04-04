@@ -1,3 +1,7 @@
+'''
+Helper file to parse timing.log output into csv file.
+'''
+
 #!/usr/bin/python
 
 import sys
